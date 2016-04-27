@@ -1,7 +1,7 @@
 name: uno
 favicon: null
 layout_spectrum: 0.9353645793162286
-typography_spectrum: 0.7798811423126608
+typography_spectrum: 0.94595
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.4343887239228934
-  lightness: 0.21590102463960648
-  saturation: 0.7353280473034829
-  rhythmicContrast: 0.8978353298734874
+    - '#ffffff'
+    - '#050402'
+    - '#302f2d'
+    - '#bcbcbc'
+    - '#595856'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
